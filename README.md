@@ -1,6 +1,4 @@
 # Proxima-Centauri
-my first engine
-2D pacman engine
-data oriented rendering
 
-how does github work?
+2D engine made for a game of pacman
+data oriented rendering (mostly pooling)
